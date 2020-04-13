@@ -2,7 +2,7 @@ body
 {
 	margin: 0;
 	padding: 0;
-	background-color: blue;
+	
 }
 h1
 {
@@ -76,7 +76,6 @@ h1
 
 /*#p2
 {
-
 	border: 3px solid black;
 	background-color: gray;
 	width: 95%;
@@ -86,11 +85,9 @@ h1
 	overflow: hidden;
 	text-align: justify;
 	position: relative;
-
 }
 #p3
 {
-
 	border: 3px solid white;
 	background-color: black;
 	color: white;
@@ -101,7 +98,6 @@ h1
 	overflow: hidden;
 	text-align: justify;
 	position: relative;
-
 }*/
 .row
 {
